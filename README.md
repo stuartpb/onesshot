@@ -1,2 +1,3 @@
-# onesshot
-A web app to perform a one-shot command on an SSH server.
+# gogo-plushu-sandbox
+
+This is a minimum-viable proof-of-concept script to make the Plushu sandbox listen on a specific port

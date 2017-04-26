@@ -1,0 +1,27 @@
+{
+  "name": "gogo-plushu-sandbox",
+  "version": "0.0.1",
+  "description": "A script to make the Plushu sandbox accessible behind Gogo In-Flight Wi-Fi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mz": "^2.6.0",
+    "node-fetch": "^1.6.3",
+    "form-data": "^2.1.4"
+  },
+  "engines": {
+    "node": "6.10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/gogo-plushu-sandbox"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
